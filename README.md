@@ -24,9 +24,13 @@ MySQL • MongoDB • Redis • Neo4j
 
 ## 📬 Contact
 
-- ✉️ [hoangnguyenduc3009@gmail.com](mailto:hoangnguyenduc3009@gmail.com)
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/hoang-nguyen-bb95b8111/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangnguyenduc3009&count_private=true&show_icons=true&theme=apprentice" alt="Hoàng Đức’s GitHub stats" />
+</p>
+</br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangnguyenduc3009&layout=compact&theme=radical" alt="Top Languages" />
+</p>
   
 - 📍 Hanoi, Vietnam  
 
