@@ -24,14 +24,8 @@ MySQL • MongoDB • Redis • Neo4j
 
 ## 📬 Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangnguyenduc3009&count_private=true&show_icons=true&theme=apprentice" alt="Hoàng Đức’s GitHub stats" />
-</p>
-</br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangnguyenduc3009&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-  
+- ✉️ [hoangnguyenduc3009@gmail.com](mailto:hoangnguyenduc3009@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hoang-nguyen-bb95b8111/)  
 - 📍 Hanoi, Vietnam  
 
 ---
@@ -40,9 +34,11 @@ MySQL • MongoDB • Redis • Neo4j
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hoangnguyenduc3009&count_private=true&show_icons=true&theme=apprentice" alt="Hoàng Đức’s GitHub stats" height="160"/>
+</p>
+</br>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangnguyenduc3009&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
-
 ---
 
 ⭐ *“Building intelligent and scalable systems.”*
