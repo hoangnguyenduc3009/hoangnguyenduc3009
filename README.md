@@ -40,7 +40,7 @@
 ## 📬 Contact
 
 - ✉️ [hoangnguyenduc3009@gmail.com](mailto:hoangnguyenduc3009@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hoang-nguyen-bb95b8111/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hoangnguyenduc3009/)  
 - 📍 Hanoi, Vietnam  
 
 ---
