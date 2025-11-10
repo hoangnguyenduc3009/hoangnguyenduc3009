@@ -24,8 +24,10 @@ MySQL • MongoDB • Redis • Neo4j
 
 ## 📬 Contact
 
-- ✉️ [hoangnguyenduc3009@gmail.com](mailto:hoangnguyenduc3009@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hoang-nguyen-bb95b8111/)  
+- ✉️ [hoangnguyenduc3009@gmail.com](mailto:hoangnguyenduc3009@gmail.com)
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hoang-nguyen-bb95b8111/)
+  
 - 📍 Hanoi, Vietnam  
 
 ---
