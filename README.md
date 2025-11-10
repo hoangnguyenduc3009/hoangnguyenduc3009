@@ -40,5 +40,3 @@ MySQL • MongoDB • Redis • Neo4j
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangnguyenduc3009&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 ---
-
-⭐ *“Building intelligent and scalable systems.”*
